@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/MiguelGarcia23">
-		<img align="center" src="./miguelGarcia.png" />
+		<img align="center" src="./miguel-garcia.png" />
 	</a>
 </p>
 
