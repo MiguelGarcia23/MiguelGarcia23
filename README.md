@@ -8,7 +8,7 @@
 
 <p align="center">
 	<a href="https://github.com/MiguelGarcia23">
-		<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=500&lines=Full+Stack+Developer;1+year+of+coding+experience;Always+learning+new+things" />
+		<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=500&lines=Full+Stack+Developer;2+years+of+coding+experience;Always+learning+new+things" />
 	</a>
 </p>
 
