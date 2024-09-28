@@ -25,9 +25,8 @@
 </p>
 
 <p align="center">
-	🧠 I'm a junior Full Stack Developer with 1 year of experience. 
-	🖥️ I'm currenty working on Cosapi Servicios C.A. 
-	📖 I've studies on Digital House and Universidad Tecnológica Nacional de Argentina. 
+	🧠 I'm a junior Full Stack Developer with 2 years of experience.
+	📖 I've studies on Universidad de Extremadura, Universidad Internacional de La Rioja and Universidad Tecnológica Nacional de Argentina. 
 	💡 I'm a passionate learner who's always willing to learn and work across technologies. 
 	🔎 I love to explore new technologies and leverage them to solve real-life problems.
 </p>
